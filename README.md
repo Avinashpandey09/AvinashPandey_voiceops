@@ -2,7 +2,7 @@
 
 This repository contains the end-to-end code for the VoiceOps 2026 Capstone Project: building a voice-enabled AI support agent for ZentroMart using Gemini, Qdrant, and Gnani STT/TTS.
 
-**Public Repository URL:** \[https://github.com/yourusername/team_name_voiceops\] *(Replace with your actual URL)*
+**Public Repository URL:** \[https://github.com/Avinashpandey09/AvinashPandey_voiceops\]
 
 ## Architecture (The Four Steps)
 
@@ -19,7 +19,7 @@ This repository contains the end-to-end code for the VoiceOps 2026 Capstone Proj
 1. **Clone the repository:**
 
    ```
-   git clone https://github.com/yourusername/team_name_voiceops.git
+   git clone https://github.com/Avinashpandey09/AvinashPandey_voiceops/
    cd team_name_voiceops
    
    ```
