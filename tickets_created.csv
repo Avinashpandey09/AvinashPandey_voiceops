@@ -1,0 +1,3 @@
+ticket_id,created_at,order_id,intent,reason,summary
+TKT63e41b363e674926996e18fcd7179f8c,2026-10-25T12:29:37,,compensation_request,Customer requesting compensation of 1000 INR; compensation requests require human review and approval.,"Customer requesting ₹1,000 compensation. Handover for human agent review."
+TKT5fe4861fb69d42e5bd6ada5533334613,2026-10-25T12:47:55,,compensation_request,Customer requesting monetary compensation,"Customer is demanding 1,000 INR compensation"
