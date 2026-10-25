@@ -20,7 +20,7 @@ This repository contains the end-to-end code for the VoiceOps 2026 Capstone Proj
 
    ```
    git clone https://github.com/Avinashpandey09/AvinashPandey_voiceops/
-   cd team_name_voiceops
+   cd AvinashPandey_voiceops
    
    ```
 
