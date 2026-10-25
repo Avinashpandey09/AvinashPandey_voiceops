@@ -1,0 +1,5 @@
+google-generativeai
+qdrant-client
+gnani-vachana
+python-dotenv
+pandas
