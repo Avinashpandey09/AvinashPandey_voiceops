@@ -1,6 +1,0 @@
-.env
-qdrant_db/
-sample_outputs/
-test_audios/
-__pycache__/
-*.wav
