@@ -72,3 +72,4 @@ To test the agent via text without voice models:
 python agent.py
 
 ```
+# "Note: The original dataset (policies, customer data, and mock files) is not included in this repository to comply with the Capstone Project submission guidelines. To run this project, please use your own dataset in the kb/ and data/ folders."
